@@ -5,18 +5,17 @@ export let rowtabel = `<tr class="h-18 border-b border-coolGray-100">
       #SVG#
     </div>
     <div class="w-auto p-2">
-      <p class="text-xs font-semibold text-coolGray-800">#nama#</p>
+      <p class="text-xs font-semibold text-coolGray-800">#jalurtanpates#</p>
     </div>
   </div>
 </th>
-<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-left">#gender#</th>
-#pgr#
-<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-green-500 text-left">#nohp#</th>
+<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-left">#jalurtes#</th>
+#bsa#
+<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-green-500 text-left">#status#</th>
 <th class="whitespace-nowrap pr-4 bg-white text-sm font-medium text-coolGray-800">
 </th>
-</tr>`
+</tr>`;
 
-export let svg = `<div class="flex items-center justify-center w-10 h-10 text-base font-medium text-yellow-600 bg-#WARNA#-200 rounded-md">PS</div>`
+export let svg = `<div class="flex items-center justify-center w-10 h-10 text-base font-medium text-yellow-600 bg-#WARNA#-200 rounded-md">PS</div>`;
 
-
-export let pgr = `<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-#col#-500 text-center">#email#</th>`
+export let bsa = `<th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-#col#-500 text-center">#Beasiswa#</th>`;
